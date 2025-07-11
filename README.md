@@ -1,2 +1,2 @@
 # CodeSoft
-Author - Mohammad Sameer Rafiyoddin
+Author - Mohammad Sameer 
